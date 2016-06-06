@@ -31,6 +31,7 @@ def imdb_rating(movie):
 
 
 if __name__ == '__main__':
+    print "Enter the movie name"
     movie = raw_input()
     #movie = "fight club"
     #print movie
